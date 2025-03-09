@@ -1,0 +1,23 @@
+{
+    "title":"笔记",
+    "avatarUrl":"https://blog.freeblock.cn/avatar.webp",
+    "GMEEK_VERSION":"last",
+    "displayTitle":"name",
+    "homeUrl":"https://8356357769.github.io/",
+    "subTitle":"简介",
+    "onePageListNum":15,
+    "i18n":"CN",
+    "singlePage":["link","about"],
+    "startSite":"08/16/2018",
+    "filingNum":"鲁666备114514号-8",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "themeMode":"fix",
+    "dayTheme":"light_tritanopia",
+    "nightTheme":"github-light",
+    "urlMode":"issue",
+    "showPostSource":0,
+    "needComment":0,
+    "bottomText":"❤️ 转载文章请注明出处，谢谢！❤️",
+    "script":"<script src='https://8356357769.github.io/plugins/ArticleTOC.js'></script><script src='https://blog.freeblock.cn/plugins/lightbox.js'></script><script>document.querySelectorAll('a').forEach(anchor => {const img = anchor.querySelector('img');if (img && img.hasAttribute('data-canonical-src')) {const canonicalSrc = img.getAttribute('data-canonical-src');anchor.setAttribute('href', canonicalSrc);img.setAttribute('src', canonicalSrc);img.removeAttribute('data-canonical-src');}});</script>",
+    "allHead":"<script src='https://8356357769.github.io/plugins/RonanTheme.js'></script>"
+}
